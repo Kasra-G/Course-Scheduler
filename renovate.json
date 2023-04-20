@@ -22,7 +22,7 @@
   ],
   "labels": ["dependencies"],
   "automergeSchedule": [
-    "after 3am and before 8am every day"
+    "after 3am and before 8am"
   ],
   "timezone": "US/Eastern"
 }
