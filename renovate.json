@@ -20,5 +20,8 @@
   "assignees": [
     "Kasra-G"
   ],
-  "labels": ["dependencies"]
+  "labels": ["dependencies"],
+  "automergeSchedule": [
+    "after 3am and before 8am every day"
+  ]
 }
